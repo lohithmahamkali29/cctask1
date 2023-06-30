@@ -35,7 +35,7 @@ The Music Player is a Python CLI application that allows users to play, pause, r
 3. Install the required dependencies by running the following command:
 pip install pygame
 
-css
+
 Copy code
 4. Place your music files in a directory (e.g., "music/") within the project directory.
 5. Update the code in the `__init__` method of the `MusicPlayer` class to point to the correct music directory:
